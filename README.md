@@ -1,2 +1,2 @@
-# Global-AI-Hub-Aygaz-Yapay-Zeka-Okuryazarl-Bootcamp-Projesi
+# Global-AI-Hub-Aygaz-Yapay-Zeka-Okuryazarlığı-Bootcamp-Projesi
 Yapay Zeka Acil Durum Yönetim Sistemi (YZADYS)
